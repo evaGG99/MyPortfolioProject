@@ -27,10 +27,9 @@ h3{
 }
 .btn-contact{
     font-family: var(--header-font-family);
-    background-color: var(--default-button-color);
+    background: var(--default-button-color);
     color: #fff;
     font-size: 20px;
     padding: 15px 30px;
-    border-radius: 10px;
-    text-decoration: none;
+    border-radius: 20px;
 }

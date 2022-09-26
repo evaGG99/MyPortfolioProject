@@ -49,4 +49,18 @@ h3{
     padding: 15px 30px;
     margin-top: 10px;
   }
+  @media (max-width: 900px) {
+    h1 {
+      font-size: 44px;
+      line-height: 2;
+    }
+  
+    h2 {
+      font-size: 44px;
+    }
+  
+    .homepage-hero{
+      padding: 80px 20px;
+    }
+}
   
